@@ -1,0 +1,5 @@
+['Selenide','Ничего не найдено']
+['JUnit', 'Ничего не найдено']
+
+['Ru', List{Продукты и услуги, Биржевая информация, Документы, Обучение, Медиа, О компании}]
+['En', List{Markets, Indices, Market data, Listing, Connectivity, News and events, About MOEX, Investor Relations}]
