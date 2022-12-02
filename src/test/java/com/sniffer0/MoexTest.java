@@ -20,7 +20,7 @@ import static com.codeborne.selenide.Selenide.*;
 public class MoexTest extends Base {
 
     @BeforeEach
-    void OpenGeneralPage() {
+    void openGeneralPage() {
         open("https://www.moex.com/");
 
     }
